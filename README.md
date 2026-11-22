@@ -482,3 +482,5 @@ If you have any questions or need help, please:
 This repository is maintained by **Tapan Jayydeo Wankhade** ([@Tapanwankhade](https://github.com/Tapanwankhade)), B.Tech CSE, Vellore Institute of Technology (2026), Bangalore, India.
 
 The boilerplate was originally created by **Abhishek371222** ([@Abhishek371222](https://github.com/Abhishek371222)). Original authorship and the MIT license (see `LICENSE`) are retained.
+
+**Contact (maintainer):** Tapan Jayydeo Wankhade · 📧 [tapanjw@gmail.com](mailto:tapanjw@gmail.com) · 📞 +91 9022255903
