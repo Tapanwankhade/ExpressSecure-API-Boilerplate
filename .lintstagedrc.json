@@ -1,0 +1,4 @@
+{
+  "*.js": "eslint"
+}
+// Updated 2025
